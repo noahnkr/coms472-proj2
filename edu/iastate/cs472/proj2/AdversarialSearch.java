@@ -2,7 +2,7 @@ package edu.iastate.cs472.proj2;
 
 /**
  * 
- * @author
+ * @author Noah Roberts
  *
  */
 
@@ -24,8 +24,7 @@ public abstract class AdversarialSearch {
      * @return an array of valid moves
      */
     protected CheckersMove[] legalMoves() {
-    	// TODO
-    	return null; 
+        return null;
     }
 	
     /**
